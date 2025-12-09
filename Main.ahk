@@ -1,7 +1,6 @@
 #Requires AutoHotkey v2.0
-#SingleInstance Forse
+#SingleInstance Force
 
-#include "scripts/Common.ahk"
-#include "scripts/FileTools.ahk"
-#include "scripts/WindowsTools.ahk"
-
+#Include "scripts\Common.ahk"
+#Include "scripts\FileTools.ahk"
+#Include "scripts\WindowsTools.ahk"
